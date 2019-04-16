@@ -1,0 +1,687 @@
+INFO:root:faces: 1 at 2019-01-29 02:56:15.175211
+INFO:root:faces: 0 at 2019-01-29 02:56:15.264363
+INFO:root:faces: 1 at 2019-01-29 02:56:15.349206
+INFO:root:faces: 0 at 2019-01-29 02:56:15.988621
+INFO:root:faces: 1 at 2019-01-29 02:56:16.338462
+INFO:root:faces: 0 at 2019-01-29 02:56:16.667350
+INFO:root:faces: 1 at 2019-01-29 02:56:17.053901
+INFO:root:faces: 0 at 2019-01-29 02:56:17.453314
+INFO:root:faces: 1 at 2019-01-29 02:56:17.587268
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:56:19] "GET /Take_Images HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:56:19] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:56:19] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:56:19] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:56:19] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:56:23] "GET /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:56:29] "POST /upload HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:56:29] "GET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:56:29] "GET /upload?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:56:29] "GET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:56:30] "GET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:56:30] "GET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:56:45] "GET /del HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:56:45] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:57:38] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:57:38] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:57:38] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:57:38] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:57:40] "GET /logout HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:57:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:57:40] "GET /static/index.jpeg) HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:57:43] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:57:43] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:57:43] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:57:43] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:57:43] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:57:48] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:57:49] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:57:49] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:57:49] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:00] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:00] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:00] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:00] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:03] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:03] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:03] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:03] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:04] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:04] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:04] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:04] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:04] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:04] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:04] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:04] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:04] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:05] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:05] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:05] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:05] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:05] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:05] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:05] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:05] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:05] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:05] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:05] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:06] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:06] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:06] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:06] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:06] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:06] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:06] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:06] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:07] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:08] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:08] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:08] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:08] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:08] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:08] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:08] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:09] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:09] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:09] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:09] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:10] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:10] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:10] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:10] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:10] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:10] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:10] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:10] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:14] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:14] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:14] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:14] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:52] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:52] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:52] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:52] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:55] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:55] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:55] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:55] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:57] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:57] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:57] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:57] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:58] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:58] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:58] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:58] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:58] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:58] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:58] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:58] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:58] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:58] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:58] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 02:59:58] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 03:00:01] "GET /stud HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 03:00:01] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 03:00:05] "GET /rec HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 03:00:05] "GET /rec?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 03:00:05] "GET /rec?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 03:00:05] "GET /rec?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 03:00:05] "GET /rec?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 03:00:05] "GET /rec?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 03:00:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 03:00:10] "GET /static/index.jpeg) HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 03:00:12] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 03:00:12] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 03:00:12] "GET /jumbotron.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 03:00:12] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 03:00:12] "GET /js/bootstrap.bundle.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 03:00:21] "GET /admin HTTP/1.1" 200 -
+INFO:root:faces: 1 at 2019-01-29 10:47:44.673866
+INFO:root:faces: 0 at 2019-01-29 10:47:44.754319
+INFO:root:faces: 1 at 2019-01-29 10:47:50.864592
+INFO:root:faces: 0 at 2019-01-29 10:47:51.062509
+INFO:root:faces: 1 at 2019-01-29 10:47:51.194920
+INFO:root:faces: 0 at 2019-01-29 10:47:51.260042
+INFO:root:faces: 1 at 2019-01-29 10:47:51.326084
+INFO:root:faces: 0 at 2019-01-29 10:48:00.799284
+INFO:root:faces: 1 at 2019-01-29 10:48:02.874645
+INFO:root:faces: 0 at 2019-01-29 10:48:02.940755
+INFO:root:faces: 1 at 2019-01-29 10:48:03.005787
+INFO:root:faces: 0 at 2019-01-29 10:48:03.126741
+INFO:root:faces: 1 at 2019-01-29 10:48:03.500915
+INFO:root:faces: 0 at 2019-01-29 10:48:05.647996
+INFO:root:faces: 1 at 2019-01-29 10:48:05.947160
+INFO:root:faces: 0 at 2019-01-29 10:48:06.019902
+INFO:root:faces: 1 at 2019-01-29 10:48:09.263967
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 10:48:16] "GET /Take_Images HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 10:48:16] "GET /home HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 10:48:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 10:48:16] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 10:48:16] "GET /static/css/bg.jpg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 11:30:05] "GET /home HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 11:30:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 11:30:05] "GET /static/css/image1.jpg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 11:30:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 11:30:34] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 11:30:34] "GET /static/css/image1.jpg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 11:30:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 11:30:37] "GET /static/css/image1.jpg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 11:30:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 11:30:42] "GET /static/css/image1.jpg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 11:30:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 11:30:54] "GET /static/css/image1.jpg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 11:31:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 11:31:03] "GET /static/css/image1.jpg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 11:31:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 11:31:55] "GET /static/css/image1.jpg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 11:31:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jan/2019 11:31:59] "GET /static/css/image1.jpg HTTP/1.1" 404 -
+INFO:root:faces: 1 at 2019-01-30 14:18:23.944930
+INFO:root:faces: 0 at 2019-01-30 14:18:24.674680
+INFO:root:faces: 1 at 2019-01-30 14:18:24.737457
+INFO:root:faces: 0 at 2019-01-30 14:18:26.789608
+INFO:root:faces: 1 at 2019-01-30 14:18:26.866727
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:18:32] "GET /Take_Images HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:18:32] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:18:32] "GET /static/css/jumbotron.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:18:32] "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:18:48] "GET /logout HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:18:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:18:48] "GET /js/bootstrap.min.js HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:18:48] "GET /static/image1.jpeg) HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:19:08] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:19:08] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:19:10] "GET /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:19:18] "POST /upload HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:19:18] "GET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:19:18] "GET /upload?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:19:18] "GET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:19:19] "GET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:19:19] "GET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/manisa/Desktop/web_develop/final_script.py', reloading
+INFO:root:faces: 1 at 2019-01-30 14:57:17.849728
+INFO:root:faces: 0 at 2019-01-30 14:57:17.917314
+INFO:root:faces: 1 at 2019-01-30 14:57:17.993085
+INFO:root:faces: 0 at 2019-01-30 14:57:18.499555
+INFO:root:faces: 1 at 2019-01-30 14:57:18.630475
+INFO:root:faces: 0 at 2019-01-30 14:57:19.007086
+INFO:root:faces: 1 at 2019-01-30 14:57:19.632460
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:57:23] "GET /Take_Images HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:57:23] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Jan/2019 14:57:31] "GET /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:05:31] "GET /Take_Images HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:05:31] "GET /Take_Images?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:05:31] "GET /Take_Images?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:05:31] "GET /Take_Images?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:05:31] "GET /Take_Images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:05:31] "GET /Take_Images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:05:43] "GET /Track_Image HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:05:43] "GET /Track_Image?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:05:43] "GET /Track_Image?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:05:43] "GET /Track_Image?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:05:43] "GET /Track_Image?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:05:43] "GET /Track_Image?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:09:02] "GET /Take_Images HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:09:02] "GET /Take_Images?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:09:02] "GET /Take_Images?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:09:02] "GET /Take_Images?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:09:02] "GET /Take_Images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:09:02] "GET /Take_Images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/manisa/Desktop/web_develop/extra.py', reloading
+INFO:root:faces: 1 at 2019-02-07 11:13:00.336545
+INFO:root:faces: 0 at 2019-02-07 11:13:10.905972
+INFO:root:faces: 1 at 2019-02-07 11:13:10.990964
+INFO:root:faces: 0 at 2019-02-07 11:13:11.416401
+INFO:root:faces: 1 at 2019-02-07 11:13:11.501806
+INFO:root:faces: 0 at 2019-02-07 11:13:14.116614
+INFO:root:faces: 1 at 2019-02-07 11:13:14.287800
+INFO:root:faces: 0 at 2019-02-07 11:13:14.802395
+INFO:root:faces: 1 at 2019-02-07 11:13:14.885582
+INFO:root:faces: 0 at 2019-02-07 11:13:15.225519
+INFO:root:faces: 1 at 2019-02-07 11:13:15.394661
+INFO:root:faces: 2 at 2019-02-07 11:13:15.822427
+INFO:root:faces: 1 at 2019-02-07 11:13:15.910805
+INFO:root:faces: 2 at 2019-02-07 11:13:18.790096
+INFO:root:faces: 1 at 2019-02-07 11:13:18.870978
+INFO:root:faces: 2 at 2019-02-07 11:13:18.950239
+INFO:root:faces: 1 at 2019-02-07 11:13:19.110791
+INFO:root:faces: 2 at 2019-02-07 11:13:19.275417
+INFO:root:faces: 0 at 2019-02-07 11:13:19.352118
+INFO:root:faces: 1 at 2019-02-07 11:13:19.437493
+INFO:root:faces: 2 at 2019-02-07 11:13:19.517572
+INFO:root:faces: 1 at 2019-02-07 11:13:19.686359
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:13:21] "GET /Take_Images HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 11:13:21] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/manisa/Desktop/web_develop/script_2.py', reloading
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 17:02:57] "GET /Take_Images HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 17:02:57] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 17:02:57] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 17:02:57] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 17:02:59] "GET /Track_Image HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 17:02:59] "GET /Track_Image?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 17:02:59] "GET /Track_Image?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 17:02:59] "GET /Track_Image?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 17:02:59] "GET /Track_Image?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 17:03:16] "GET /admin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 17:03:25] "GET /rec2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 17:03:26] "GET /sef1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 17:03:27] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 17:03:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 17:03:28] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Feb/2019 17:03:28] "GET /static/css/bg.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:37:52] "GET /Take_Images HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:37:53] "GET /Take_Images?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:37:53] "GET /Take_Images?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:37:53] "GET /Take_Images?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:37:53] "GET /Take_Images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:38:56] "GET /Take_Images HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:38:56] "GET /Take_Images?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:38:56] "GET /Take_Images?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:38:56] "GET /Take_Images?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:38:56] "GET /Take_Images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:45:10] "GET /Take_Images HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:45:10] "GET /Take_Images?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:45:10] "GET /Take_Images?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:45:10] "GET /Take_Images?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:45:10] "GET /Take_Images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:47:12] "GET /admin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:47:13] "GET /Take_Images HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:48:16] "GET /Take_Images HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:48:16] "GET /Take_Images?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:48:16] "GET /Take_Images?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:48:16] "GET /Take_Images?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 18:48:16] "GET /Take_Images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:root:faces: 1 at 2019-02-10 19:31:15.611557
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:31:28] "GET /Take_Images HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:31:28] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:31:30] "GET /Track_Image HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:31:30] "GET /Track_Image?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:31:30] "GET /Track_Image?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:31:30] "GET /Track_Image?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:31:30] "GET /Track_Image?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:31:34] "GET /stud HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:31:35] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:31:39] "POST /add HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:31:46] "GET /rec HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:32:01] "GET /del HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:32:01] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:32:04] "POST /delete HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:32:07] "GET /del HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:32:07] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:32:12] "POST /delete HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:32:14] "GET /stud HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:32:15] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:32:18] "GET /rec HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:32:19] "GET /rec HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:32:20] "GET /rec HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:32:21] "GET /stud HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:32:21] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:32:56] "POST /add HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:33:15] "POST /add HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 19:33:15] "POST /add HTTP/1.1" 302 -
+INFO:werkzeug: * Detected change in '/home/manisa/Desktop/web_develop/develop.py', reloading
+INFO:root:faces: 1 at 2019-02-10 20:17:28.703872
+INFO:root:faces: 0 at 2019-02-10 20:17:28.824776
+INFO:root:faces: 1 at 2019-02-10 20:17:29.165139
+INFO:root:faces: 0 at 2019-02-10 20:17:29.237331
+INFO:root:faces: 1 at 2019-02-10 20:17:29.784328
+INFO:root:faces: 0 at 2019-02-10 20:17:29.863763
+INFO:root:faces: 1 at 2019-02-10 20:17:29.943533
+INFO:root:faces: 2 at 2019-02-10 20:17:30.604078
+INFO:root:faces: 1 at 2019-02-10 20:17:30.684808
+INFO:root:faces: 2 at 2019-02-10 20:17:31.094731
+INFO:root:faces: 0 at 2019-02-10 20:17:31.177785
+INFO:root:faces: 1 at 2019-02-10 20:17:31.343532
+INFO:root:faces: 0 at 2019-02-10 20:17:31.424810
+INFO:root:faces: 1 at 2019-02-10 20:17:31.510055
+INFO:root:faces: 0 at 2019-02-10 20:17:31.590830
+INFO:root:faces: 1 at 2019-02-10 20:17:33.049211
+INFO:root:faces: 0 at 2019-02-10 20:17:33.527330
+INFO:root:faces: 1 at 2019-02-10 20:17:34.006174
+INFO:root:faces: 0 at 2019-02-10 20:17:34.091614
+INFO:root:faces: 1 at 2019-02-10 20:17:34.172449
+INFO:root:faces: 0 at 2019-02-10 20:17:35.282877
+INFO:root:faces: 1 at 2019-02-10 20:17:35.363035
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:17:41] "GET /Take_Images HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:17:41] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:17:44] "GET /Track_Image HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:17:44] "GET /Track_Image?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:17:44] "GET /Track_Image?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:17:44] "GET /Track_Image?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:17:44] "GET /Track_Image?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:17:49] "GET /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:00] "GET /stud HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:00] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:03] "GET /rec HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:05] "GET /sef HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:05] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:07] "GET /stud HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:07] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:08] "GET /del HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:08] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:09] "POST /delete HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:15] "GET /del HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:15] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:19] "POST /delete HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:21] "GET /del HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:21] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:26] "POST /delete HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:30] "GET /del HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:30] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:34] "POST /delete HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:37] "GET /del HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:37] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:44] "POST /delete HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:46] "GET /stud HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:18:46] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:19:05] "POST /add HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:19:16] "GET /admin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:19:18] "GET /sef1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:19:18] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:19:19] "GET /rec HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:19:23] "GET /stud HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:19:23] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:19:51] "POST /add HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:19:57] "GET /admin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:20:01] "GET /sef1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:20:01] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:20:08] "GET /rec HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:20:17] "GET /stud HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:20:17] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:20:47] "POST /add HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:20:52] "GET /admin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:20:58] "GET /rec2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:21:00] "GET /sef1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:21:00] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Feb/2019 20:21:01] "GET /rec HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/manisa/Desktop/web_develop/develop.py', reloading
+INFO:root:faces: 1 at 2019-02-11 01:05:46.640032
+INFO:root:faces: 0 at 2019-02-11 01:05:48.011770
+INFO:root:faces: 1 at 2019-02-11 01:05:50.193241
+INFO:root:faces: 0 at 2019-02-11 01:05:51.397915
+INFO:root:faces: 1 at 2019-02-11 01:05:53.022560
+INFO:root:faces: 0 at 2019-02-11 01:05:53.129836
+INFO:root:faces: 1 at 2019-02-11 01:05:53.183698
+INFO:root:faces: 0 at 2019-02-11 01:05:53.715433
+INFO:root:faces: 1 at 2019-02-11 01:05:53.770527
+INFO:root:faces: 0 at 2019-02-11 01:05:55.119039
+INFO:root:faces: 1 at 2019-02-11 01:05:55.169859
+INFO:root:faces: 0 at 2019-02-11 01:05:55.220174
+INFO:root:faces: 1 at 2019-02-11 01:05:55.271361
+INFO:root:faces: 0 at 2019-02-11 01:05:55.321916
+INFO:root:faces: 1 at 2019-02-11 01:05:59.183372
+INFO:root:faces: 0 at 2019-02-11 01:05:59.247301
+INFO:root:faces: 1 at 2019-02-11 01:05:59.704364
+INFO:root:faces: 0 at 2019-02-11 01:05:59.762438
+INFO:root:faces: 1 at 2019-02-11 01:05:59.958498
+INFO:root:faces: 0 at 2019-02-11 01:06:00.026673
+INFO:root:faces: 1 at 2019-02-11 01:06:00.246198
+INFO:root:faces: 0 at 2019-02-11 01:06:00.306279
+INFO:root:faces: 1 at 2019-02-11 01:06:00.519986
+INFO:root:faces: 0 at 2019-02-11 01:06:00.570882
+INFO:root:faces: 1 at 2019-02-11 01:06:00.789671
+INFO:root:faces: 0 at 2019-02-11 01:06:00.848660
+INFO:root:faces: 1 at 2019-02-11 01:06:03.635339
+INFO:root:faces: 0 at 2019-02-11 01:06:03.687129
+INFO:root:faces: 1 at 2019-02-11 01:06:05.579207
+INFO:root:faces: 0 at 2019-02-11 01:06:05.628671
+INFO:root:faces: 1 at 2019-02-11 01:06:05.727924
+INFO:root:faces: 0 at 2019-02-11 01:06:05.777378
+INFO:root:faces: 1 at 2019-02-11 01:06:07.412840
+INFO:root:faces: 0 at 2019-02-11 01:06:07.462217
+INFO:root:faces: 1 at 2019-02-11 01:06:09.345060
+INFO:root:faces: 0 at 2019-02-11 01:06:09.396328
+INFO:root:faces: 1 at 2019-02-11 01:06:12.278359
+INFO:root:faces: 0 at 2019-02-11 01:06:12.327828
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:00:23] "GET /Take_Images HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:00:23] "GET /Take_Images?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:00:23] "GET /Take_Images?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:00:23] "GET /Take_Images?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:00:24] "GET /Take_Images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:01:00] "GET /Take_Images HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:01:00] "GET /Take_Images?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:01:00] "GET /Take_Images?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:01:00] "GET /Take_Images?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:01:00] "GET /Take_Images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:01:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:01:07] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:01:07] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:04:37] "GET /Take_Images HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:04:37] "GET /Take_Images?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:04:37] "GET /Take_Images?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:04:37] "GET /Take_Images?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:04:37] "GET /Take_Images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:root:faces: 1 at 2019-02-11 22:08:40.227861
+INFO:root:faces: 0 at 2019-02-11 22:08:51.719705
+INFO:root:faces: 1 at 2019-02-11 22:08:52.879300
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:08:55] "GET /Take_Images HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:08:55] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:09:06] "GET /Track_Image HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:09:06] "GET /Track_Image?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:09:06] "GET /Track_Image?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:09:07] "GET /Track_Image?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:09:07] "GET /Track_Image?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:09:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:09:45] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:09:45] "GET /home HTTP/1.1" 200 -
+INFO:root:faces: 1 at 2019-02-11 22:10:10.837173
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:10:13] "GET /Take_Images HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:10:13] "GET /home HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:10:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:10:13] "GET /static/css/style.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 22:10:14] "GET /static/css/bg.jpg HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 23:38:35] "GET /stud HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 23:38:35] "GET /static/index.jpeg HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 23:38:38] "GET /rec HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 23:38:49] "GET /admin HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 23:38:52] "GET /rec2 HTTP/1.1" 200 -
+INFO:root:faces: 1 at 2019-02-11 23:39:17.577478
+INFO:root:faces: 0 at 2019-02-11 23:39:22.344933
+INFO:root:faces: 1 at 2019-02-11 23:39:22.862209
+INFO:root:faces: 0 at 2019-02-11 23:39:22.940453
+INFO:root:faces: 1 at 2019-02-11 23:39:23.353254
+INFO:root:faces: 0 at 2019-02-11 23:39:23.434988
+INFO:root:faces: 1 at 2019-02-11 23:39:24.100261
+INFO:root:faces: 2 at 2019-02-11 23:39:25.566567
+INFO:root:faces: 1 at 2019-02-11 23:39:25.766448
+INFO:root:faces: 0 at 2019-02-11 23:39:31.662203
+INFO:root:faces: 1 at 2019-02-11 23:39:31.742196
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 23:39:31] "GET /Take_Images HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 23:39:31] "GET /home HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 23:39:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 23:39:32] "GET /static/css/style.css HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 23:39:32] "GET /static/css/bg.jpg HTTP/1.1" 304 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 23:39:34] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 23:39:34] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 23:40:43] "GET /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 23:40:53] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 23:41:01] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 23:41:03] "POST / HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [11/Feb/2019 23:41:03] "GET /home HTTP/1.1" 200 -
+INFO:root:faces: 1 at 2019-02-12 00:05:04.374836
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 00:05:12] "GET /Take_Images HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 00:05:12] "GET /home HTTP/1.1" 200 -
+INFO:root:faces: 1 at 2019-02-12 09:51:17.756821
+INFO:root:faces: 1 at 2019-02-12 20:49:05.153035
+INFO:root:faces: 0 at 2019-02-12 20:49:05.321973
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 20:49:13] "[32mGET /Take_Images HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 20:49:13] "[32mGET /home HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 20:49:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 20:49:15] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 20:49:15] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:root:faces: 1 at 2019-02-12 22:46:50.725562
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 22:46:54] "[32mGET /Take_Images HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 22:46:54] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 22:46:54] "[37mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 22:46:58] "[37mGET /upload HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 22:48:11] "[1m[35mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 22:48:11] "[37mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 22:48:11] "[37mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 22:48:11] "[37mGET /upload?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 22:48:11] "[37mGET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/manisa/Desktop/web_develop/file1.py', reloading
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 23:42:36] "[1m[35mGET /Take_Images HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 23:42:36] "[37mGET /Take_Images?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 23:42:36] "[37mGET /Take_Images?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 23:42:36] "[37mGET /Take_Images?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 23:42:36] "[37mGET /Take_Images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 23:42:36] "[37mGET /Take_Images?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/manisa/Desktop/web_develop/file1.py', reloading
+INFO:root:faces: 1 at 2019-02-12 23:43:33.216185
+INFO:root:faces: 0 at 2019-02-12 23:43:34.228064
+INFO:root:faces: 1 at 2019-02-12 23:43:34.310838
+INFO:root:faces: 0 at 2019-02-12 23:43:34.477351
+INFO:root:faces: 1 at 2019-02-12 23:43:34.558186
+INFO:root:faces: 0 at 2019-02-12 23:43:34.639714
+INFO:root:faces: 1 at 2019-02-12 23:43:36.045423
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 23:43:39] "[32mGET /Take_Images HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 23:43:39] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Feb/2019 23:44:50] "[37mGET /upload HTTP/1.1[0m" 200 -
+INFO:root:faces: 2 at 2019-02-13 10:27:07.943420
+INFO:root:faces: 1 at 2019-02-13 10:27:08.568663
+INFO:root:faces: 0 at 2019-02-13 10:27:08.614505
+INFO:root:faces: 2 at 2019-02-13 10:27:08.682378
+INFO:root:faces: 1 at 2019-02-13 10:27:11.179907
+INFO:root:faces: 2 at 2019-02-13 10:27:11.255991
+INFO:root:faces: 1 at 2019-02-13 10:27:11.604402
+INFO:root:faces: 2 at 2019-02-13 10:27:11.762667
+INFO:root:faces: 1 at 2019-02-13 10:27:11.838955
+INFO:root:faces: 2 at 2019-02-13 10:27:11.988330
+INFO:root:faces: 1 at 2019-02-13 10:27:12.138590
+INFO:root:faces: 2 at 2019-02-13 10:27:12.214834
+INFO:root:faces: 1 at 2019-02-13 10:27:13.219167
+INFO:root:faces: 2 at 2019-02-13 10:27:13.311273
+INFO:root:faces: 1 at 2019-02-13 10:27:18.473326
+INFO:root:faces: 2 at 2019-02-13 10:27:19.000025
+INFO:root:faces: 1 at 2019-02-13 10:27:19.074928
+INFO:root:faces: 2 at 2019-02-13 10:27:20.042421
+INFO:root:faces: 1 at 2019-02-13 10:27:20.191135
+INFO:root:faces: 2 at 2019-02-13 10:27:20.264955
+INFO:root:faces: 1 at 2019-02-13 10:27:20.338682
+INFO:root:faces: 2 at 2019-02-13 10:27:20.413347
+INFO:root:faces: 1 at 2019-02-13 10:27:20.858281
+INFO:root:faces: 2 at 2019-02-13 10:27:20.932454
+INFO:root:faces: 1 at 2019-02-13 10:27:21.231665
+INFO:root:faces: 2 at 2019-02-13 10:27:21.306780
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2019 10:27:21] "[32mGET /Take_Images HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2019 10:27:21] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2019 10:27:21] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2019 10:27:21] "[36mGET /static/css/jumbotron.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2019 10:27:24] "[37mGET /upload HTTP/1.1[0m" 200 -
+INFO:root:faces: 1 at 2019-02-13 15:43:15.850137
+INFO:root:faces: 0 at 2019-02-13 15:43:15.921342
+INFO:root:faces: 1 at 2019-02-13 15:43:16.144768
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2019 15:43:21] "[32mGET /Take_Images HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2019 15:43:21] "[32mGET /home HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2019 15:43:21] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2019 15:43:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2019 15:43:21] "[36mGET /static/css/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2019 15:43:24] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2019 15:43:24] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Feb/2019 15:43:27] "[37mGET /upload HTTP/1.1[0m" 200 -
+INFO:root:faces: 1 at 2019-02-14 13:16:40.481859
+INFO:root:faces: 0 at 2019-02-14 13:16:41.227370
+INFO:root:faces: 1 at 2019-02-14 13:16:41.465185
+INFO:root:faces: 0 at 2019-02-14 13:16:43.032325
+INFO:root:faces: 1 at 2019-02-14 13:16:43.191375
+INFO:root:faces: 0 at 2019-02-14 13:16:43.572202
+INFO:root:faces: 1 at 2019-02-14 13:16:43.633444
+INFO:root:faces: 0 at 2019-02-14 13:16:43.695315
+INFO:root:faces: 1 at 2019-02-14 13:16:44.913151
+INFO:root:faces: 0 at 2019-02-14 13:16:45.214318
+INFO:root:faces: 1 at 2019-02-14 13:16:45.287905
+INFO:root:faces: 0 at 2019-02-14 13:16:45.360493
+INFO:root:faces: 1 at 2019-02-14 13:16:45.432481
+INFO:werkzeug:127.0.0.1 - - [14/Feb/2019 13:16:48] "[32mGET /Take_Images HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/Feb/2019 13:16:48] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Feb/2019 13:16:54] "[37mGET /upload HTTP/1.1[0m" 200 -
+INFO:root:faces: 1 at 2019-02-14 23:00:13.668696
+INFO:werkzeug:127.0.0.1 - - [14/Feb/2019 23:00:18] "[32mGET /Take_Images HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/Feb/2019 23:00:18] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:root:faces: 1 at 2019-02-14 23:42:39.444530
+INFO:werkzeug:127.0.0.1 - - [14/Feb/2019 23:42:49] "[32mGET /Take_Images HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/Feb/2019 23:42:49] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Feb/2019 23:42:55] "[37mGET /stud HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Feb/2019 23:42:55] "[33mGET /static/index.jpeg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Feb/2019 23:43:30] "[32mPOST /add HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/Feb/2019 23:43:30] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Feb/2019 23:43:36] "[37mGET /upload HTTP/1.1[0m" 200 -
+INFO:root:faces: 1 at 2019-02-15 09:56:14.656978
+INFO:root:faces: 0 at 2019-02-15 09:56:15.383640
+INFO:root:faces: 1 at 2019-02-15 09:56:15.438643
+INFO:root:faces: 0 at 2019-02-15 09:56:19.587140
+INFO:root:faces: 1 at 2019-02-15 09:56:20.474872
+INFO:werkzeug:127.0.0.1 - - [15/Feb/2019 09:56:20] "[32mGET /Take_Images HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Feb/2019 09:56:20] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Feb/2019 09:56:26] "[37mGET /admin HTTP/1.1[0m" 200 -
+INFO:root:faces: 1 at 2019-02-15 10:02:46.973709
+INFO:root:faces: 0 at 2019-02-15 10:02:48.008999
+INFO:root:faces: 1 at 2019-02-15 10:02:48.169884
+INFO:werkzeug:127.0.0.1 - - [15/Feb/2019 10:02:50] "[32mGET /Take_Images HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [15/Feb/2019 10:02:50] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Feb/2019 10:02:53] "[37mGET /upload HTTP/1.1[0m" 200 -
+INFO:root:faces: 2 at 2019-02-23 19:56:03.314311
+INFO:root:faces: 1 at 2019-02-23 19:56:03.413124
+INFO:root:faces: 0 at 2019-02-23 19:56:04.014926
+INFO:root:faces: 1 at 2019-02-23 19:56:05.792733
+INFO:root:faces: 2 at 2019-02-23 19:56:06.543265
+INFO:root:faces: 1 at 2019-02-23 19:56:06.784408
+INFO:root:faces: 2 at 2019-02-23 19:56:06.865015
+INFO:root:faces: 1 at 2019-02-23 19:56:06.943712
+INFO:root:faces: 2 at 2019-02-23 19:56:07.021892
+INFO:root:faces: 1 at 2019-02-23 19:56:07.406982
+INFO:root:faces: 2 at 2019-02-23 19:56:08.023057
+INFO:root:faces: 1 at 2019-02-23 19:56:08.104453
+INFO:root:faces: 2 at 2019-02-23 19:56:08.186864
+INFO:root:faces: 1 at 2019-02-23 19:56:08.278313
+INFO:root:faces: 2 at 2019-02-23 19:56:08.437071
+INFO:root:faces: 1 at 2019-02-23 19:56:08.514170
+INFO:root:faces: 2 at 2019-02-23 19:56:08.594462
+INFO:root:faces: 1 at 2019-02-23 19:56:08.677168
+INFO:root:faces: 2 at 2019-02-23 19:56:08.759120
+INFO:root:faces: 1 at 2019-02-23 19:56:08.844366
+INFO:root:faces: 0 at 2019-02-23 19:56:09.080958
+INFO:root:faces: 2 at 2019-02-23 19:56:09.300533
+INFO:root:faces: 0 at 2019-02-23 19:56:09.607088
+INFO:root:faces: 1 at 2019-02-23 19:56:15.727112
+INFO:root:faces: 0 at 2019-02-23 19:56:15.806967
+INFO:root:faces: 1 at 2019-02-23 19:56:17.190835
+INFO:root:faces: 2 at 2019-02-23 19:56:18.235629
+INFO:root:faces: 1 at 2019-02-23 19:56:18.317335
+INFO:root:faces: 0 at 2019-02-23 19:56:18.776091
+INFO:root:faces: 1 at 2019-02-23 19:56:18.857217
+INFO:root:faces: 0 at 2019-02-23 19:56:19.019164
+INFO:root:faces: 1 at 2019-02-23 19:56:19.182782
+INFO:root:faces: 0 at 2019-02-23 19:56:19.343503
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2019 19:56:19] "[32mGET /Take_Images HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2019 19:56:19] "[32mGET /home HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2019 19:56:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2019 19:56:19] "[37mGET /static/css/bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2019 19:56:21] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2019 19:56:21] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:root:faces: 1 at 2019-03-19 11:39:54.539101
+INFO:root:faces: 0 at 2019-03-19 11:39:55.357239
+INFO:root:faces: 1 at 2019-03-19 11:39:55.427757
+INFO:root:faces: 0 at 2019-03-19 11:40:01.254596
+INFO:root:faces: 1 at 2019-03-19 11:40:02.321766
+INFO:root:faces: 0 at 2019-03-19 11:40:02.405306
+INFO:root:faces: 1 at 2019-03-19 11:40:02.844449
+INFO:root:faces: 0 at 2019-03-19 11:40:04.524062
+INFO:root:faces: 1 at 2019-03-19 11:40:05.854430
+INFO:root:faces: 0 at 2019-03-19 11:40:05.929135
+INFO:root:faces: 1 at 2019-03-19 11:40:06.924324
+INFO:root:faces: 0 at 2019-03-19 11:40:07.001559
+INFO:root:faces: 1 at 2019-03-19 11:40:11.937945
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2019 11:40:17] "[32mGET /Take_Images HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2019 11:40:17] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2019 11:40:17] "[36mGET /static/css/jumbotron.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2019 11:40:17] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2019 11:40:24] "[37mGET /upload HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2019 11:43:07] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2019 11:43:07] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2019 11:43:07] "[37mGET /static/css/bg.jpg HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2019 11:43:09] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2019 11:43:09] "[37mGET /home HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2019 11:43:10] "[37mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Mar/2019 11:43:10] "[37mGET /static/css/jumbotron.css HTTP/1.1[0m" 200 -

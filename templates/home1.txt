@@ -1,0 +1,15 @@
+<!-- Begin page content -->
+  <div class="container">
+    <div class="page-header">
+      <h1>Student Records with marks and grades</h1>
+    </div>
+    <p class="lead">student records are used to enter details and perform search and delete operations in it  with <code>name</code> with <code>marks</code> and<code>grades</code>
+    <p>Back to <a href="../sticky-footer">powered </a> by @niyas.</p>
+  </div>
+</div>
+
+<div id="footer">
+  <div class="container">
+    <p><a href="http://github.com/niyaspkd">github</a> and <a href="http://bootniyas.wordpress.com">my blog</a>.</p>
+  </div>
+</div>

@@ -1,1 +1,1 @@
-# face recognition based attendance system
+# face id based attendance system using Artificial Intelligence
